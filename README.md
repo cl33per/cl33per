@@ -9,3 +9,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
+
+### Now Playing 🎧
+
+[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/leeper08?si=5c03ef41a0e64da3)
+<br/>
+---
+
+[![Cl33per GitHub stats](https://github-readme-stats.vercel.app/api?username=cl33per)](https://github.com/cl33per/github-readme-stats)
