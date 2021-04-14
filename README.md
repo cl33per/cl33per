@@ -1,3 +1,5 @@
+![Code Wars](https://www.codewars.com/users/cl33per/badges/micro)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
