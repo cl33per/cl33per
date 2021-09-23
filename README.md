@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently working on ...
   - LUX MetalCard built with NextJS, React served on Vercels CND and using Crystallize as the Headless CRM.
-  - CreatorSphere built with React Native. 
+  - CreatorSphere built with React, React Native Expo Go. FireStore / FireBase.
+  
 - 🌱 I’m currently learning ...
-  - Azure Fundementals and Azure DevOps
+  - Azure DevOps
+  - Linux+, CCNA, Google Cloud, AWS
   - GraphQL & Apolo Server
 
 - 📫 How to reach me: ...
